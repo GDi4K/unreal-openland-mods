@@ -29,4 +29,4 @@ This is a set of community contributes modifications to [OpenLand](https://www.u
 
 ## License
 
-Everything in **OpenLand Mods** in under the MIT License. So, you can virtually do anything with it.
+Everything in **OpenLand Mods** is under the MIT License. So, you can virtually do anything with it.
